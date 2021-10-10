@@ -7,5 +7,7 @@
         'JavaScript',
         'Bootstrap',
         'Java',
-        'C#'
+        'C#',
+        'Python',
+        'Lógica de Programação'
     ];
