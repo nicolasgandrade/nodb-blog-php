@@ -8,6 +8,6 @@ NoDB Blog is a small php web system that simulates a real blog, but without usin
 
 <hr>
 
-The main goal for this project was to study how to implement php elements inside the html.
+The main goal for this project was to study how to implement PHP elements inside the HTML.
 
-All the posts showed in the homepage are alocated in a php archive. Then, the html requires all that as variables, and show to the final user.
+All the posts showed in the homepage are alocated in a PHP archive. Then, the HTML requires all that as variables, and show to the final user.
