@@ -24,7 +24,7 @@
         ],
         [
             'id' => 4,
-            'title' => 'a importância da lógica de programação',
+            'title' => 'A importância da lógica de programação',
             'desc' => 'Entenda porquê se deve aprender lógica de programação antes de ingressar em uma linguagem.',
             'tags' => ['programação', 'lógica de programação'],
             'img' => '3.jpg'
